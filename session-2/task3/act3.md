@@ -9,7 +9,7 @@ Test the code for the following input:
 - 1 2 a
 - a 1 2
 - a
-
+ 
 scanf() will attempt to convert the data into the expected type in the defined order
 
 It is important to consider the returned `count` as well as the data.

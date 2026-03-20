@@ -1,7 +1,7 @@
 # Task 2 - strings
 
 1. **String library**
-
+ 
 The program `string_ops.c` requires you to test some C string library functions.
 
 Note: 
